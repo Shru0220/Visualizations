@@ -1,6 +1,6 @@
 # Visualizations
 
-Tableau, Excel and PowerBI dashboards.
+Tableau, Excel and PowerBI practice dashboards.
 
 Tableau
 ![Screenshot 2024-02-25 113939](https://github.com/Shru0220/Visualizations/assets/154072471/16711729-4dfa-4d51-b54a-bbab3d87e3c0)
