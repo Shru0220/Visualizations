@@ -1,8 +1,8 @@
 # Visualizations
 
 Tableau, Excel and PowerBI practice dashboards.
-**
-Superstore Dashboard**
+
+Superstore Dashboard
 
 Superstore dashboard that takes into consideration various key metrics like category wise product sales, segment wise sales, average discount, total profit, total orders, year-on year growth, current year sales and previous year sales. An area line graph showcases the monthly trend of product sales.
 A detailed report contains the entire sales of each and every product sold per customer along with its discount, orofit, quantity sold and total sales.
