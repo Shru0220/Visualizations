@@ -12,10 +12,10 @@ A donut chart shows the attrition rate of employees by education field. By group
 A bar graph shows attrition rate by gender and department. 
 A table summerizes a particular employee details which includes but not limited to Years in the company, Salary details, Job involvement, Salary hike etc.
 
+![HR_Analytics Dataset](https://github.com/user-attachments/assets/53a3d948-0ce6-449b-bf20-e45dcf75c318)
 
-![Screenshot 2024-06-28 203025](https://github.com/Shru0220/Visualizations/assets/154072471/6f1d9b07-0f23-4424-9969-88adb7e0bb02)
+![HR_Analytics_1](https://github.com/user-attachments/assets/ebafdc0f-5764-4021-b4f5-1a751c4c7b27)
 
-![Screenshot 2024-06-28 204610](https://github.com/Shru0220/Visualizations/assets/154072471/cae0e22c-5c18-4349-a219-154becde4d14)
 
 
 
